@@ -2,7 +2,15 @@
 Dockerfiles for hosting livecoding services!
 Dockerfiles para hostear servicios livecoderxs!
 
-# Instrucciones
+# INSTRURAPIDAS
+1. Instalar [docker](https://docs.docker.com/get-docker/)
+2. Mandarle cumbia
+- Hydra: `docker run -p 33331:8000 pablitx/hydra-box`
+3. Entrar
+- Hydra: https://localhost:33331
+
+
+# Instrucciones para armar local
 
 1. Instalar [docker](https://docs.docker.com/get-docker/)
 2. `git clone https://github.com/pLabarta/livecoder-whale/`
